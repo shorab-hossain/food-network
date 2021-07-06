@@ -245,8 +245,33 @@ background-image: url(shapes/Frame\ 59.jpg);
     width: 25%;
     padding-bottom: 80px;
 }
+/* eight-blog */
 
-
+.input-blog {
+    width: 70%;
+}
+.adress-blog h1 {
+    font-size: 30px;
+}
+input[type="text"] {
+    padding: 10px 50px;
+    margin-bottom: 20px;
+}
+input[type="password"]{
+        padding: 10px 50px;
+        margin-bottom: 20px;
+}
+input[type="message"] {
+    padding: 30px 50px;
+}
+button.button {
+    padding: 15px 25px;
+    font-size: 15px;
+    font-weight: bold;
+}
+button:hover{
+    background: chocolate;
+}
 
 /* footer */
 .last{
